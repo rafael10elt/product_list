@@ -1,3 +1,3 @@
-Para iniciar o projeto:
+Para inicializar o projeto:
  - npm install
  - npm start
